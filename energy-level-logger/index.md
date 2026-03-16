@@ -6,7 +6,7 @@ title: "Energy Level Logger – Privacy Policy"
 # Energy Level Logger – Privacy Policy
 
 **Developer:** Xi Cheng / Juggle
-**Contact:** [hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com)
+**Contact:** [hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com)
 **Effective Date:** March 16, 2026
 **Last Updated:** March 16, 2026
 **Applies To:** iOS and Android
@@ -45,7 +45,7 @@ Energy Level Logger may log personal wellness information (energy levels, timest
 
 ## Children's Privacy
 
-Energy Level Logger does not knowingly collect personal data from children under 16. Contact [hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com) if you have concerns.
+Energy Level Logger does not knowingly collect personal data from children under 16. Contact [hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com) if you have concerns.
 
 ---
 
@@ -63,7 +63,7 @@ No personal data is collected or stored on external servers. Logged data on your
 
 ## Your Rights
 
-Depending on your region, you may have rights under GDPR, CCPA, or similar laws. Since we do not collect personal data externally, these rights primarily apply to data on your own device. For any questions, contact [hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com).
+Depending on your region, you may have rights under GDPR, CCPA, or similar laws. Since we do not collect personal data externally, these rights primarily apply to data on your own device. For any questions, contact [hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com).
 
 ---
 
@@ -76,4 +76,4 @@ This policy will be updated as the app evolves. The **Last Updated** date above 
 ## Contact
 
 **Xi Cheng / Juggle**
-[hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com)
+[hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com)

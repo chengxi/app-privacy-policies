@@ -12,7 +12,7 @@ This repository hosts privacy policies for all iOS and Android apps developed by
 
 ## Contact
 
-For privacy inquiries: [hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com)
+For privacy inquiries: [hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com)
 
 ---
 

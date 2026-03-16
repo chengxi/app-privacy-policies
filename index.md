@@ -7,7 +7,7 @@ title: Privacy Policies
 
 Privacy policies for all apps developed by **Xi Cheng / Juggle**.
 
-For questions or privacy-related requests, contact: [hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com)
+For questions or privacy-related requests, contact: [hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com)
 
 ---
 
