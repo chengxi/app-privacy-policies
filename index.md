@@ -17,7 +17,6 @@ For questions or privacy-related requests, contact: [hellojuggler.dev@gmail.com]
 |-----|----------|----------------|
 | Kitchen Timer | iOS & Android | [View Policy](./kitchen-timer/) |
 | Kitchen Assistant | iOS & Android | [View Policy](./kitchen-assistant/) |
-| Keys Communication | iOS & Android | [View Policy](./keys-communication/) |
 | Energy Level Logger | iOS & Android | [View Policy](./energy-level-logger/) |
 
 ---

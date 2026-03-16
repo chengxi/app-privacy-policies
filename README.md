@@ -8,7 +8,6 @@ This repository hosts privacy policies for all iOS and Android apps developed by
 |-----|--------------------|
 | Kitchen Timer | https://chengxi.github.io/app-privacy-policies/kitchen-timer/ |
 | Kitchen Assistant | https://chengxi.github.io/app-privacy-policies/kitchen-assistant/ |
-| Keys Communication | https://chengxi.github.io/app-privacy-policies/keys-communication/ |
 | Energy Level Logger | https://chengxi.github.io/app-privacy-policies/energy-level-logger/ |
 
 ## Contact
