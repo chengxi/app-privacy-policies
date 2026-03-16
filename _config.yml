@@ -4,3 +4,5 @@ author: "Xi Cheng"
 email: "hellojuggler.dev@gmail.com"
 theme: minima
 markdown: kramdown
+header_pages:
+  - index.md
