@@ -28,7 +28,11 @@ We use this data solely to identify and fix bugs.
 
 ## Children's Privacy
 
-We do not knowingly collect personal data from anyone, including children under 16.
+We do not knowingly collect personal data from anyone, including children under 13 (or the applicable minimum age in your jurisdiction).
+
+## California Residents (CCPA)
+
+We do not sell personal information.
 
 ## Changes to This Policy
 
