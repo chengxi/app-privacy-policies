@@ -7,8 +7,8 @@ title: "Kitchen Assistant – Privacy Policy"
 
 **Developer:** Xi Cheng / Juggle
 **Contact:** [hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com)
-**Effective Date:** March 16, 2025
-**Last Updated:** March 16, 2025
+**Effective Date:** March 16, 2026
+**Last Updated:** March 16, 2026
 **Applies To:** iOS and Android
 
 ---
@@ -35,7 +35,7 @@ All data created within the app is stored locally on your device.
 
 ## Children's Privacy
 
-Kitchen Assistant does not knowingly collect personal data from children under 13. If you believe your child has provided us with personal information, contact us at [hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com) and we will take steps to remove it.
+Kitchen Assistant does not knowingly collect personal data from children under 16. If you believe your child has provided us with personal information, contact us at [hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com) and we will take steps to remove it.
 
 ---
 

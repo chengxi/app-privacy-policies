@@ -7,8 +7,8 @@ title: "Kitchen Timer – Privacy Policy"
 
 **Developer:** Xi Cheng / Juggle
 **Contact:** [hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com)
-**Effective Date:** March 16, 2025
-**Last Updated:** March 16, 2025
+**Effective Date:** March 16, 2026
+**Last Updated:** March 16, 2026
 **Applies To:** iOS and Android
 
 ---
@@ -38,7 +38,7 @@ All timer settings and preferences are stored locally on your device and are nev
 
 ## Children's Privacy
 
-Kitchen Timer does not collect data from anyone, including children under 13. It is safe for use by children.
+Kitchen Timer does not collect data from anyone, including children under 16. It is safe for use by children.
 
 ---
 

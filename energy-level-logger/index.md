@@ -7,8 +7,8 @@ title: "Energy Level Logger – Privacy Policy"
 
 **Developer:** Xi Cheng / Juggle
 **Contact:** [hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com)
-**Effective Date:** March 16, 2025
-**Last Updated:** March 16, 2025
+**Effective Date:** March 16, 2026
+**Last Updated:** March 16, 2026
 **Applies To:** iOS and Android
 
 ---
@@ -45,7 +45,7 @@ Energy Level Logger may log personal wellness information (energy levels, timest
 
 ## Children's Privacy
 
-Energy Level Logger does not knowingly collect personal data from children under 13. Contact [hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com) if you have concerns.
+Energy Level Logger does not knowingly collect personal data from children under 16. Contact [hellojuggler.dev@gmail.com](mailto:hellojuggler.dev@gmail.com) if you have concerns.
 
 ---
 
