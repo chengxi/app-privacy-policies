@@ -5,8 +5,8 @@ title: "Energy Level Logger – Privacy Policy"
 
 # Energy Level Logger – Privacy Policy
 
-**Developer:** Xi Cheng / Juggle
-**Contact:** [hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com)
+**Developer:** Hello Juggler LLC
+**Contact:** [contact@hellojuggler.com](mailto:contact@hellojuggler.com)
 **Effective Date:** March 31, 2026
 **Last Updated:** March 31, 2026
 **Applies To:** iOS and Android
@@ -15,7 +15,7 @@ title: "Energy Level Logger – Privacy Policy"
 
 ## Overview
 
-Energy Level Logger is a personal wellness tracking app developed by Xi Cheng / Juggle that helps you log and monitor your energy levels over time. This policy describes our current data practices. As the app develops, this policy will be updated before any new version is released.
+Energy Level Logger is a personal wellness tracking app developed by Hello Juggler LLC that helps you log and monitor your energy levels over time. This policy describes our current data practices. As the app develops, this policy will be updated before any new version is released.
 
 ## Data Storage
 
@@ -50,7 +50,7 @@ If this policy changes, the updated version will be posted here with a new "Last
 
 ## Your Rights
 
-Depending on your region, you may have rights under GDPR, CCPA, or similar laws. Since we do not collect personal data externally, these rights primarily apply to data on your own device. For any questions, contact [hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com).
+Depending on your region, you may have rights under GDPR, CCPA, or similar laws. Since we do not collect personal data externally, these rights primarily apply to data on your own device. For any questions, contact [contact@hellojuggler.com](mailto:contact@hellojuggler.com).
 
 ---
 
@@ -62,6 +62,6 @@ This policy will be updated as the app evolves. The **Last Updated** date above 
 
 ## Contact
 
-**Xi Cheng / Hello Juggler**
-[hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com)
+**Hello Juggler LLC**
+[contact@hellojuggler.com](mailto:contact@hellojuggler.com)
 

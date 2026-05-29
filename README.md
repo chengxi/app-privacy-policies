@@ -1,6 +1,6 @@
 # Juggle App Privacy Policies
 
-This repository hosts privacy policies for all iOS and Android apps developed by **Xi Cheng / Juggle**.
+This repository hosts privacy policies for all iOS and Android apps developed by **Hello Juggler LLC**.
 
 ## Published Policies
 
@@ -12,8 +12,8 @@ This repository hosts privacy policies for all iOS and Android apps developed by
 
 ## Contact
 
-For privacy inquiries: [hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com)
+For privacy inquiries: [contact@hellojuggler.com](mailto:contact@hellojuggler.com)
 
 ---
 
-*Developer: Xi Cheng | Brand: Juggle*
+*Developer: Hello Juggler LLC*

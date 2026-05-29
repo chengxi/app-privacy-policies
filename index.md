@@ -5,9 +5,9 @@ title: Privacy Policies
 
 # Juggle App Privacy Policies
 
-Privacy policies for all apps developed by **Xi Cheng / Juggle**.
+Privacy policies for all apps developed by **Hello Juggler LLC**.
 
-For questions or privacy-related requests, contact: [hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com)
+For questions or privacy-related requests, contact: [contact@hellojuggler.com](mailto:contact@hellojuggler.com)
 
 ---
 
@@ -22,4 +22,4 @@ For questions or privacy-related requests, contact: [hellojuggler.dev+support@gm
 
 ---
 
-*All apps are developed by Xi Cheng, operating under the Juggle brand.*
+*All apps are developed by Hello Juggler LLC.*

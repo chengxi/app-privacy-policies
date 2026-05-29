@@ -5,8 +5,8 @@ title: "Kitchen Timer – Privacy Policy"
 
 # Kitchen Timer – Privacy Policy
 
-**Developer:** Xi Cheng / Juggle
-**Contact:** [hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com)
+**Developer:** Hello Juggler LLC
+**Contact:** [contact@hellojuggler.com](mailto:contact@hellojuggler.com)
 **Last Updated:** March 16, 2026
 **Applies To:** iOS and Android
 
@@ -40,4 +40,4 @@ If this policy changes, we will update the **Last Updated** date above.
 
 ## Contact
 
-Questions? Email us at [hellojuggler.dev+support@gmail.com](mailto:hellojuggler.dev+support@gmail.com)
+Questions? Email us at [contact@hellojuggler.com](mailto:contact@hellojuggler.com)
